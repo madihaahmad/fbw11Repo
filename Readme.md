@@ -10,3 +10,4 @@ another changed
  updated in text branch
 >>>>>>> 34b340204475e08487b5fc8f98dfb9ff9ca8a1f1
 one more
+new thing
